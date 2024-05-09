@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/23.Navlink-Dialoques-Props/static/css/main.27f3226b.css",
+    "main.js": "/23.Navlink-Dialoques-Props/static/js/main.089b6072.js",
+    "index.html": "/23.Navlink-Dialoques-Props/index.html",
+    "main.27f3226b.css.map": "/23.Navlink-Dialoques-Props/static/css/main.27f3226b.css.map",
+    "main.089b6072.js.map": "/23.Navlink-Dialoques-Props/static/js/main.089b6072.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.27f3226b.css",
+    "static/js/main.089b6072.js"
+  ]
+}
